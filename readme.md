@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/Gddrig/NosScan/blob/main/Capture.JPG)
 
+SOL turns red below 0.025 and Active turns red above 3H
+
 ### Work with config.json file
 
 ```sh
